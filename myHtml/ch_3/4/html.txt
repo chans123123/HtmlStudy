@@ -1,0 +1,4 @@
+form 태그
+action : 입력받은 값들을 전송할 url 입력
+method : 서버에 전송할때 송신 방식
+<form action="서버url" method="get or post"></form>

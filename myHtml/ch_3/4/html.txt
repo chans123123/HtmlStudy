@@ -2,3 +2,5 @@ form 태그
 action : 입력받은 값들을 전송할 url 입력
 method : 서버에 전송할때 송신 방식
 <form action="서버url" method="get or post"></form>
+label : 상호작용 요소에 이름을 붙일때 사용 for속성과 id 속성은 같아야 함
+fieldset : form태그 안에 다양한 상호작용 요소들을 그룹화 할때 사용

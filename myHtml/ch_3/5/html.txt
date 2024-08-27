@@ -1,0 +1,3 @@
+select : 여러개의 선택중에 1개를 선택할수있음
+option value : 서버에 전송할 값
+optgroup : option value를 관련성 있는 것들 끼리 묶음
